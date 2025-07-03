@@ -1,7 +1,7 @@
 plugins {
     // Other plugins...
   
-    id("com.google.gms.google-services") version "4.3.15" apply false  // Change to match the version that's already on the classpath
+    id("") version "4.3.15" apply false  // Change to match the version that's already on the classpath
 }
 allprojects {
     repositories {
